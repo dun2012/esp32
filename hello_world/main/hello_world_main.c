@@ -15,7 +15,7 @@
 
 void app_main()
 {
-    printf("Hello world ESP32 HEHE\n");
+    printf("Hello world dunyuewei\n");
 
     /* Print chip information */
     esp_chip_info_t chip_info;
